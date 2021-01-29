@@ -1,0 +1,17 @@
+.activStar {
+  color: gold;
+}
+.li-block div {
+  margin-right: 40px;
+  font-size: 35px;
+  cursor: pointer;
+}
+.li-block {
+  margin-bottom: 20px;
+}
+.likeColor {
+  color: red;
+}
+.btnColor {
+  color: red;
+}
